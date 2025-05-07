@@ -1,1 +1,1 @@
-# SecureHorizon
+# SecureHorizon Project
